@@ -41,7 +41,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
                     // for text generation
                     val generativeModel = GenerativeModel(
                         modelName = "gemini-1.0-pro",
-                        apiKey = "AIzaSyD3sv1-U9CAzm42qctv4FzqNMlT3nkMWDg",
+                        apiKey = "<Your api key>",
                         generationConfig = config
                     )
                     SummarizeViewModel(generativeModel)
@@ -52,7 +52,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
                     // for multimodal text generation
                     val generativeModel = GenerativeModel(
                         modelName = "gemini-1.0-pro-vision-latest",
-                        apiKey = "AIzaSyD3sv1-U9CAzm42qctv4FzqNMlT3nkMWDg",
+                        apiKey =  "<Your api key>",,
                         generationConfig = config
                     )
                     PhotoReasoningViewModel(generativeModel)
@@ -62,7 +62,7 @@ val GenerativeViewModelFactory = object : ViewModelProvider.Factory {
                     // Initialize a GenerativeModel with the `gemini-pro` AI model for chat
                     val generativeModel = GenerativeModel(
                         modelName = "gemini-1.0-pro",
-                        apiKey = "AIzaSyD3sv1-U9CAzm42qctv4FzqNMlT3nkMWDg",
+                        apiKey = "<Your api key>",,
                         generationConfig = config
                     )
 
