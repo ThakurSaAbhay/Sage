@@ -9,7 +9,7 @@
 
   [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Sage?style=for-the-badge)](https://github.com/ThakurSaAbhay/Sage)
   [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Sage)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/Sage) 
+  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/ThakurSaAbhay/Sage) 
 
 <p>
   <a href="#key-features">Key Features</a> •
