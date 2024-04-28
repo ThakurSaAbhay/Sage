@@ -7,9 +7,9 @@
 
 <h4 >A mental health assistance application built on <a href="https://developer.android.com/studio/" target="_blank">Android Studio</a>.</h4>
 
-  [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Sage?style=for-the-badge)](https://github.com/ThakurSaAbhay/Buzznews)
-  [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Buzznews)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/Apurva-tech/) 
+  [![Code size](https://img.shields.io/github/languages/code-size/ThakurSaAbhay/Sage?style=for-the-badge)](https://github.com/ThakurSaAbhay/Sage)
+  [![Issues](https://img.shields.io/github/issues/ThakurSaAbhay/Sage?style=for-the-badge&label=Issues)](https://github.com/ThakurSaAbhay/Sage)
+  [![GitHub last commit](https://img.shields.io/github/last-commit/ThakurSaAbhay/Sage?style=for-the-badge&logo=git)](https://github.com/Sage) 
 
 <p>
   <a href="#key-features">Key Features</a> •
